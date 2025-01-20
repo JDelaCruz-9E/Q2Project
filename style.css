@@ -1,0 +1,14 @@
+body {
+	background-color: #edc04e;
+	color: ;
+	font-family: ;
+	background-size: cover;
+	background-image: url(bg.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.card {
+	align-content: center;
+}
